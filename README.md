@@ -1,2 +1,2 @@
 # HF-Projects
-A repository to showcase my projects involving Hugging Face..
+A repository to showcase my projects Hugging Face Projects.
