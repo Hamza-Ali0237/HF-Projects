@@ -1,2 +1,2 @@
 # HuggingFace-Projects
-A repository to showcase my projects Hugging Face Projects.
+A repository to showcase my Hugging Face Projects.
